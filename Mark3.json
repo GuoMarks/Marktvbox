@@ -14,7 +14,7 @@
     ],
     "warningText": "Marktvbox玉",
     "sites": [
-     {"key":"csp_DouDou","name":"Marktvbox","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},  
+     {"key":"csp_DouDou","name":"Marktvbox玉","type":3,"api":"csp_DouDou","searchable":1,"quickSearch":1,"filterable":1},  
    
 
   {
